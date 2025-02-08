@@ -5,6 +5,3 @@ You can make your own saves by naming the save prac[number here]
 Keybinds are in practice.cfg
 
 Contains aliases for swapping to specific one instead of scrolling through one by one, for example "prac1"
-
-Just place everything in valve_WON folder.
-
